@@ -28,9 +28,7 @@ BETTER_AUTH_SECRET=yoursecret
 
 ## Video
 
-<video width="500" height="500" controls>
-  <source src="https://vimeo.com/1067475593?share=copy" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/a7d76d35-b4a9-4010-b283-459618f27003
 
 ## Additional info
 
