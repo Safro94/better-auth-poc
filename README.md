@@ -26,6 +26,10 @@ DATABASE_URL=postgres://youruser:yourpassword@localhost:5432/postgres
 BETTER_AUTH_URL=http://localhost:3000 #Base URL of your app
 BETTER_AUTH_SECRET=yoursecret
 
+## Video
+
+https://vimeo.com/1067475593?share=copy
+
 ## Additional info
 
 I uploaded a video of the bug inside the public folder
